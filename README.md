@@ -24,11 +24,11 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Installation
 
-<npm Install Insomnia
-<npm Install MongoDB Compass
-<npm Install express
-<npm Install mongoose
-<npm Install moment
+< npm Install Insomnia >
+< npm Install MongoDB Compass >
+< npm Install express >
+< npm Install mongoose >
+< npm Install moment >
 
 ## License
 
